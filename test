@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    
+     <link rel="stylesheet" href="style.css"/>
+    <title> jan michael biyo resume </title>
+  </head>
+  
+     <div> 
+        <h1>Jan Michael Aguilar Biyo  </h1>
+        <p> 590 Sleepy Hollow lane
+            Holland, Mi 49423 704.707.5055 </p>
+        <p> janmichael.biyo@gmail.com </p>
+    </div> 
+  
+    <div class="meat1"> 
+        <p> A detailed oriented, exceedingly motivated processional with proven ability and experience in maintenance, assembly, testing, inspections, and programming of large computer numeric control equipment.  Technical expertise and in-depth knowledge in steam turbines, heat exchangers, turbine generators, pneumatic systems, lube oil systems, radiological controlled equiptment, valves, CNC routers, machining centers, and pumps.  Well organized clear communicator and quick thinker able to convey comples ideas and present unconventinal solutions to unique problems.  
+    </div>     
+
+     <div class="qual">
+       <h3> QUALIFICATIONS</h3>
+     </div>  
+
+         <div class="qual1"> 
+           <ul>
+             <li>Maintenance</li>  
+             <li>Operations</li>
+             <li>Leadership</li>
+           </ul>
+         </div>  
+
+         <div class="qual2">
+           <ul>
+             <li>Planning</li>
+             <li>Work Controls</li>
+             <li>Technical Drawings Analysis</li>
+           </ul>
+         </div>
+
+         <div class="qual3"> 
+           <ul>
+             <li>Authentication</li>
+             <li>Auditing</li>
+             <li>Detail Oriented</li>
+           </ul> 
+         </div>
+
+     <div class="proexp">
+       <h3>PROFESSIONAL EXPERIENCE</h3>
+     </div> 
+  
+         <div class="proexp1">
+           <h5>SEP 2016 TO PRESENT – FIELD TECHNICIAN CNC MACHINES</h5> 
+             <ul>
+              <li>Demonstrated a high level of proficiency and teamwork working with a group of technicians to expertly install, troubleshoot and maintain a large complex automatic line production system</li>
+              <li>Displayed highly detail oriented mindset learning complex CNC programing on several machines and operating system types ahead of schedule helping the company provide more resources and training to customers.</li>
+             </ul>
+         </div>
+
+         <div class="proexp2">
+           <h5>MAY 2015 TO SEP 2016 – ROCKET PROPULSION SPECIALIST</h5>
+             <ul>
+              <li>Performed over 200 sub assembly constructions and 20 main assembly constructions of a missile rocket flight control engine proficiently and rapidly resulting on ahead of schedule delivery.</li>
+              <li>Demonstrated quick learning ability and attention to detail performing high pressure vessel tests on over 70 rocket component parts as a junior specialist being promoted to the testing department of the assembly team.</li>
+             </ul> 
+         </div>
+
+         <div class="proexp3">
+           <h5>DEC 2014 TO MAY 2015 – SENIOR REACTOR MECHANIC </h5>
+             <ul>
+              <li>Senior Chief Reactor Watch demonstrated a high level of knowledge and commitment to junior sailors, helping over 30 to qualify various watch stations and collateral qualifications.</li>
+              <li>Mentored 10 plus junior reactor mechanical sailors on operations and maintenance resulting in an improved working environment and enhanced watchstander rotation.</li>
+              <li>Demonstrated a high level of proficiency working 1000 plus hours as a nuclear power plant operator and contributed to the above average review from the Naval Mobile Training Team and Operational Reactor Safeguards Examination Team.</li>
+             </ul> 
+         </div> 
+
+         <div class="proexp4">
+           <h5>MAR 2014 - NOV 2014 – LEAD REACTOR MECHANICAL REPRESENTATIVE OF CENTRALIZED WORK CONTROLS TEAM (CWCT)</h5>
+             <ul> 
+              <li>Expertly managed the development and assessment of over 2000 work authorization forms (WAFs) and tag outs for the ship yard maintenance overhaul which was instrumental to the successful early undocking and finishing of the availability.  </li>
+            </ul>   
+         </div>
+
+         <div class="proexp5">
+           <h5>MAY 2013 – FEB 2014 – LEAD MAINTENANCE TECHNICIAN</h5>
+            <ul> 
+             <li>Flawlessly performed over 32 overhaul repairs and refurbishment on highly essential steam plant valves that lead to the shipyard maintenance availability being completed ahead of schedule.</li>
+             <liSupervised and performed over 500 corrective and preventative maintenance actions and testing of reactor plant systems during shipyard overhaul and operational conditions.</li>
+           </ul> 
+         </div>
+
+         <div class="proexp6">
+           <h5>OCT 2011 - APR 2013 – PRIMARY CARBON STEEL INSPECTOR, MAINTENANCE TECHNICIAN, AND REACTOR MECHANIC </h5>
+            <ul>
+             <li>Inspected over 200 primary carbon steel piping, strainers, orifices and valves keeping a well-organized ledger that resulted in recognizing over 50 problem areas before they manifested.</li>
+             <li>Performed over 400 corrective and preventative maintenance actions and testing of reactor plant systems during operational conditions.</li>
+           </ul> 
+         </div>
+
+     <div class="emphis">
+       <h3>EMPLOYMENT HISTORY</h3>
+     </div> 
+         <div class="emphis1"> 
+           <ul>
+             <li>IMA Schelling Group USA, Field Technician, 2016 – Present</li>  
+             <li>Aerojet Rocketdyne, Rocket Propulsion Specialist, 2015 – 2016</li>
+             <li>U.S. Navy, Nuclear Power Plant Mechanical Operator, 2009 – 2015</li>
+             <li>Lowes Home Improvement, Flooring Department Sales Associate, 2008 – 2009</li>  
+             <li>Buckhead Saloon, Security/Barback/Bartender, 2006 – 2008</li>
+             <li>5-Star Restaurant, Cook, 2005 – 2008</li>
+             <li>Damon’s Bar and Grill, Cook/Busser, 2004-2005</li>
+             <li>AMC Theaters 24, Usher/Concessions/Sales/Booth Operator, 2002-2004</li>
+           </ul>
+         </div>  
+       
+       
+    <div class="edu">
+       <h3>EDUCATION</h3>
+     </div>     
+         <div class="edu1"> 
+           <ul>
+             <li>Lock out tag out – Feb 2018</li>
+             <li>Laser Safety Officer – Mar 2017</li>
+             <li>Navy Quality Assurance Inspector Course – May 2014</li>
+             <li>Propulsion Plant Trade Skill Course – July 2013</li>
+             <li>Primary Valve Operator Advanced Course – June 2013</li>
+             <li>Naval Nuclear Prototype Training Unit – May 2011</li>
+             <li>Naval Nuclear Power School – May 2010</li>
+             <li>Naval Nuclear Machinist Mate ‘A’ School – November 2009</li>
+             <li>North Carolina State University, Raleigh NC, Bachelors in Arts – English (Film Studies), May 2008</li>
+           </ul> 
+         </div>     
+      
+  
+  
+       
+       
+       
+      <div class="footer">
+        <h6>Jan Michael A Biyo</h6>
+      </div> 
+       
+ </html>
+
+
+
+  
